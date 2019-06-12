@@ -1,0 +1,2 @@
+# CFF
+Code For Fun!
